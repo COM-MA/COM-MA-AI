@@ -30,7 +30,7 @@
 
 | TEAM 👨‍👦‍👦  | Name 👩‍💻  | Major 🖥         | Contact mail 📧    |
 |----------|-------|------------------|--------------------|
-|Green | Soomi Jeong | Bio Medical Engineering | soomi1030@naver.com |
+|Green | Soomi Jeong | Bio Medical Engineering | jeoung1030@gmail.com |
 <br>
 
 ## 💟 Background
