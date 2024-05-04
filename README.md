@@ -114,8 +114,10 @@ Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> t
 <br>
 
 ## 💟 Tech Stack
+- Python 
 - Tensorflow
 - Mediapipe
+- Flask 
 
 <br>
 
