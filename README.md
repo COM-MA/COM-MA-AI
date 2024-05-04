@@ -121,7 +121,7 @@ Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> t
 
 ## 💟 System Architecture
 ### ⚙️ Architecture Structure
-![Frame 7]([https://github.com/COM-MA/COM-MA-SERVER/assets/102026726/c1a1e8aa-b4e4-4a60-a1a0-66d36d7b075a](https://github.com/COM-MA/COM-MA-AI/assets/127649791/e689da61-c63d-4cde-b8b5-a0069eeaf177))
+![Frame 7](https://github.com/COM-MA/COM-MA-AI/assets/127649791/5984bf8e-1a61-456a-8416-fedad6bf0360)
 <br>
 
 <hr>
