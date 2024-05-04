@@ -70,9 +70,9 @@ To respond to the educational challenges faced by Coda, we want to provide a bet
 ![image](https://github.com/COM-MA/COM-MA-SERVER/assets/102026726/31c690a1-1c82-4f52-9be7-66087140b2db)
 ### ✨ 2. Reduced inequalities ([10] among Sustainable Development Goals)
 
-The goal of `Reduced inequalities ` is to reduce inequality at home and abroad and allow everyone to enjoy equal opportunities.
+The goal of `Reduced inequalities` is to reduce inequality at home and abroad and allow everyone to enjoy equal opportunities.
 
-Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> that Koda is experiencing, and provide Coda with <b?opportunities to address social inequality</b>. Through this, we want to support Coda's future to brighten up, and help address social inequality.
+Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> that Koda is experiencing, and provide Coda with <b>opportunities to address social inequality</b>. Through this, we want to support Coda's future to brighten up, and help address social inequality.
 <br />
 <br />
 
