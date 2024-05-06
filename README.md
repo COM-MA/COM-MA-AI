@@ -1,7 +1,9 @@
 <div align="center">
 
   <h2> <i>' COM-MA '</i> <br>AI Camera-Based Sign Language Education Platform for CODA<br></h2>
-  Youtube Link [https://youtu.be/9KRVqarybjo]
+  2nd submission [https://www.youtube.com/watch?v=WfFZMll-lgc]
+  <br>
+  1st submission [https://youtu.be/9KRVqarybjo]
   <img src="https://github.com/COM-MA/COM-MA-SERVER/assets/102026726/5cdd7168-3cee-4385-8944-c41d85ae18e4" alt="Slide 16_9 - 4">
 
 </div>
@@ -10,16 +12,18 @@
 ## 📍Table of Contents
 
 -  [💟 AI Team Members](#-ai-member)
--  [💟 Background](#-backgound)
+-  [💟 Background](#-background)
 -  [💟 Project Overview](#-project-overview)
 -  [💟 Key Features](#-key-features)
     - [🔎 COM-MA Lens](#-com-ma-lens)
     - [🏷️ Word Cards](#-word-cards)
     - [💡 Quizzes](#-quizzes)
+    - [😎 Today's Emotion](#-today's-emotion)
     - [📚 Storybooks](#-storybooks)
     - [🟣 Daily Mission Stickers](#-daily-mission-stickers)
 -  [💟 How to Run](#-how-to-run)
 -  [💟 Tech Stack](#-tech-stack)
+    - [🖥 AI](#-ai)
 -  [💟 System Architecture](#-system-architecture)
     - [⚙️ Architecture Structure](#-architecture-structure)
 -  [💟 Commit Convention](#-commit-convention)
@@ -92,6 +96,10 @@ Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> t
 > Create quizzes directly from saved word cards for educational use.
 <br>
 
+### 😎 Today’s Emotion
+> It provides a function that allows parents and children to express each other's emotions with emoticons. This can strengthen the emotional connection between parents and children.
+<br>
+
 ### 📚 Storybooks
 > Easily watch and educate with subtitles or sign language provided in storybooks.
 <br>
@@ -114,6 +122,8 @@ Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> t
 <br>
 
 ## 💟 Tech Stack
+
+### 🖥️ AI
 - Python 
 - Tensorflow
 - Mediapipe
@@ -122,6 +132,7 @@ Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> t
 <br>
 
 ## 💟 System Architecture
+
 ### ⚙️ Architecture Structure
 ![Frame 7](https://github.com/COM-MA/COM-MA-AI/assets/127649791/5984bf8e-1a61-456a-8416-fedad6bf0360)
 <br>
@@ -143,6 +154,5 @@ Our solutions contribute to <b>overcoming the linguistic and cultural gaps</b> t
 - ⏪️ [RENAME] : File renaming
 - ♻️ [REFACTOR] : Major code refactoring
 - 🛠 [SETTING] : Other configuration changes
-
 
 
